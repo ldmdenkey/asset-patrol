@@ -1,0 +1,16 @@
+{
+  "name": "资产巡查",
+  "short_name": "资产巡查",
+  "description": "离线巡查登记：扫码核对资产在谁名下，登记实际使用人，结果导入电脑工作台。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#185fa5",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
